@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Nilesh Agarwal"
-  avatar           : "/images/self.jpeg"
+  avatar           : "self.jpeg"
   bio              : "Mechanical Engineer"
   location         : "Kanpur, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mailto:nilesh.agg911@gmail.com"
+  email            : "nilesh.agg911@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/nileshagarwal_/"
+  instagram        : "nileshagarwal_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/agarwalnilesh/"
+  linkedin         : "agarwalnilesh"
   orcid            : 
   pinterest        :
   soundcloud       :
