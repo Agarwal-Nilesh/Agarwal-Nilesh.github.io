@@ -8,10 +8,3 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 **Project Mission:**
 ---
-Simulate the colonization of Mars by designing as well as building a radio-controlled primary aircraft capable of releasing secondary autonomously guided colonist delivery aircraft (CDA) and supply payloads for the survival of the colonists.
-
-The CDA needs to be an autonomous glider under 255 grams without any propulsion system. The supply payloads are Nerf howlers and Water bottles. The Final Flight Score is directly proportional to the days of habitability of the colonists.
-
-
-**My Role**
----
