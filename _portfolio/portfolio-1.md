@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Assailing Falcons - TRIDENT - 2022"
+excerpt: "SAE Aero Design’22 Advanced Class RC Aircraft with a Wingspan of > 3m. It carries three Propelled Autonomoust Delivery Aircrafts externally and water as payload.<br/><img src='/images/trident1.png'>"
 collection: portfolio
 ---
 
