@@ -1,10 +1,17 @@
 ---
-title: "Assailing Falcons - VULCAN - 2022"
-excerpt: "SAE Aero Design’21 Advanced Class RC Aircraft with a Wingspan of > 3m. It carries three Colonist Delivery Aircraft externally and supply payloads namely Aero Howlers and Water Bottles in the fuselage.<br/><img src='/images/vulcan1.png'>"
+title: "Assailing Falcons - VULCAN - 2021"
+excerpt: "SAE Aero Design’21 Advanced Class RC Aircraft with a Wingspan of > 3m. It carries three Colonist Delivery Aircraft externally and supply payloads namely Aero Howlers and Water Bottles in the fuselage.<br/><img src='/images/vulcan3.png'>"
 collection: projects
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 **Project Mission:**
+---
+Simulate the colonization of Mars by designing as well as building a radio-controlled primary aircraft capable of releasing secondary autonomously guided colonist delivery aircraft (CDA) and supply payloads for the survival of the colonists.
+
+The CDA needs to be an autonomous glider under 255 grams without any propulsion system. The supply payloads are Nerf howlers and Water bottles. The Final Flight Score is directly proportional to the days of habitability of the colonists.
+
+
+**My Role**
 ---
