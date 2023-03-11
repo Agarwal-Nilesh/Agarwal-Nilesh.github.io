@@ -4,7 +4,7 @@ excerpt: "SAE Aero Design’22 Advanced Class RC Aircraft with a Wingspan of > 3
 collection: portfolio
 ---
 
-![alt text](images/trident2.png)
+![trident2](/images/trident2.png)
 
 **What?**
 ---
@@ -17,7 +17,7 @@ The powered autonomous delivery aircraft (PADA) is required to weigh less than 2
 
 Using a systems engineering approach, Trident was designed, fabricated, and tested to fulfill all the targets set by the team for the SAE Aero Design East 2022 competition. To increase the primary aircraft's (PA) structural durability without compromising its economic design, weight reduction techniques and composite layups were incorporated, resulting in a high strength-to-weight ratio. The designed ground transport vehicle (GTV) facilitated the rapid and efficient delivery of water, with excellent packing efficiency and minimal weight.
 
-![alt text](images/trident3.png)
+![trident3](/images/trident3.png)
 
 My Role:
 ---
