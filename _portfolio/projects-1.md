@@ -19,13 +19,13 @@ Using a systems engineering approach, Trident was designed, fabricated, and test
 
 ![trident4](/images/trident4.png)
 
-My Role:
+My Role: ideas to reality
 ---
 
-- Head of the Analysis department of Team Assailing Falcons
+- Head of the Analysis department of Team Assailing Falcons.
 - Directed the optimization of the aircraft's topology to enhance its structural design.
 - Fabricated in-house composite parts using vacuum bagging technique to meet design specifications and quality standards.
-- Collaborated with cross-functional departments to streamline the desgign and manufacturing process.
+- Collaborated with cross-functional departments to streamline the design and manufacturing process.
 
 ![trident5](/images/trident5.png)
 
