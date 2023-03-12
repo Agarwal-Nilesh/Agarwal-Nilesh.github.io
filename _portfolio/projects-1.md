@@ -24,12 +24,15 @@ My Role:
 
 - Head of the Analysis department of Team Assailing Falcons
 - Directed the optimization of the aircraft's topology to enhance its structural design.
-- Fabricated in-house composite parts using vacuum bagging technique to meet design specifications and quality standards. - 
+- Fabricated in-house composite parts using vacuum bagging technique to meet design specifications and quality standards.
 - Collaborated with cross-functional departments to streamline the desgign and manufacturing process.
+
 ![trident5](/images/trident5.png)
+
 - Supervised and ensured quality control in the testing and manufacturing processes of the aircraft. Conducted rigorous testing and quality checks to ensure that the final products met or exceeded the required performance standards.
 - Oversaw end-to-end material management, ensuring efficient and timely availabilty of inventory from suppliers to end-users while maintaining optimal inventory levels.
-- Led the drafting of the Technical Design Report containing every aspect of making the aircraft in detail.
+- Led the drafting of the Technical Design Report containing every aspect of making the aircraft in detail.  
+
 ![trident3](/images/trident3.png)
 
 Students analyze requirements, perform trade-studies
@@ -43,3 +46,4 @@ Results:
 
 ![trident6](/images/trident6.png)
 ![trident7](/images/trident7.png)
+![trident8](/images/trident8.png)
