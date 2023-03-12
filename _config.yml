@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Nilesh Agarwal"
-  avatar           : "self.jpeg"
+  avatar           : "self1.jpeg"
   bio              : "Mechanical Engineer"
   location         : "Kanpur, India"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "nilesh.agg911@gmail.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "agarwal.nilesh99@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        : "nileshagarwal_"
+  instagram        : #"nileshagarwal_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "agarwalnilesh"
