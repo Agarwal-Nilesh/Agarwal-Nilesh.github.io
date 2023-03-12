@@ -29,4 +29,4 @@ Results:
 
 ![p&t6](/images/p&t6.png)
 
-- The design mechanism is expected to be patented. 
+- The design invention is under patent review.
