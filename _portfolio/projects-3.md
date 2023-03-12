@@ -1,5 +1,5 @@
 ---
-title: "Assailing Falcons - VULCAN - 2021"
+title: "Mask Loop Supporter - Rapid Prototyping"
 excerpt: "A supporter used to obtain comfortable and prolonged usage for any normal day masks.<br/><img src='/images/mask1.png'>"
 collection: portfolio
 ---
@@ -7,18 +7,15 @@ collection: portfolio
 **What?** 
 ---
 
-![mask1](/images/mask1.png)
-
-
 The objective of this project is to design a supporter that will aid in wearing face masks. The supporter will be designed to provide a secure and comfortable fit for any normal day mask, allowing for prolonged usage without discomfort or slippage. 
+
+![mask1](/images/mask1.png)
 
 Additionally, the supporter design will need to be easy to use and adjust, so that users can quickly and easily obtain a secure and comfortable for people to wear face masks, thereby promoting good public health practices and helping to reduce the spread of infectious diseases.
 
 
-
 **How?**
 ---
-
 
 - The supporter designed to aid in wearing face masks was created using SolidWorks, a powerful computer-aided design (CAD) software. 
 
