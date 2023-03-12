@@ -22,8 +22,24 @@ My Role:
 
 - Member of the Structures and Analysis Department of Team Assailing Falcons.
 - Analyzed requirements, performed trade-studies, and designed the CAD model of wing and empennage structure of the aircraft using SolidWorks. Developed a detailed model that incorporated design specifications, performance requirements, and safety considerations.
+
+![vulcan5](/images/vulcan5.png)
+
 - Optimized Design for Manufacturability and Assembly (DFM/A) techniques to optimize assemblies, which led to a significant 25% reduction in Bill of Materials (BOM) cost.
 - Applied Finite Element Analysis (FEA) techniques to validate the design of various aircraft structures, including ribs, wings, spars. Utilized FEA results to evaluate the performance of different materials and design configurations, refine the design, and make necessary adjustments to optimize the aircraft structure for weight, cost, and performance.
 - Responsible for drafting the Technical Design Report containing every aspect of making the aircraft in detail and produced technical 2D Drawings with the application of GD&T to endure precise and accurate specifications for all components.
+
+![vulcan6](/images/vulcan6.png)
+
 - Collaborated with cross-functional department to ensure that all aspects of the design were fully integrated and aligned with project goals and objectives.
 - Developed a range of marketing materials to engage with supporters through personalized bulk email communications.
+
+Results:
+---
+
+- **1st Worldwide in Design Report** - SAE International Aero Design Competition (Lakeland, Florida, USA)
+- **1st Rank Overall in Asia** - SAE International Aero Design Competition (Lakeland, Florida, USA)
+- **5th Rank Overall Worldwide** - SAE International Aero Design Competition (Lakeland, Florida, USA)
+
+![vulcan7](/images/vulcan7.png)
+![vulcan8](/images/vulcan8.png)

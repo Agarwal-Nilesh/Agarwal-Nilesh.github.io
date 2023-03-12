@@ -35,8 +35,6 @@ My Role: ideas to reality
 
 ![trident3](/images/trident3.png)
 
-Students analyze requirements, perform trade-studies
-
 Results:
 ---
 
