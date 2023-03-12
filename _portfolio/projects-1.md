@@ -17,9 +17,29 @@ The powered autonomous delivery aircraft (PADA) is required to weigh less than 2
 
 Using a systems engineering approach, Trident was designed, fabricated, and tested to fulfill all the targets set by the team for the SAE Aero Design East 2022 competition. To increase the primary aircraft's (PA) structural durability without compromising its economic design, weight reduction techniques and composite layups were incorporated, resulting in a high strength-to-weight ratio. The designed ground transport vehicle (GTV) facilitated the rapid and efficient delivery of water, with excellent packing efficiency and minimal weight.
 
-![trident3](/images/trident3.png)
+![trident4](/images/trident4.png)
 
 My Role:
 ---
 
 - Head of the Analysis department of Team Assailing Falcons
+- Directed the optimization of the aircraft's topology to enhance its structural design.
+- Fabricated in-house composite parts using vacuum bagging technique to meet design specifications and quality standards. - 
+- Collaborated with cross-functional departments to streamline the desgign and manufacturing process.
+![trident5](/images/trident5.png)
+- Supervised and ensured quality control in the testing and manufacturing processes of the aircraft. Conducted rigorous testing and quality checks to ensure that the final products met or exceeded the required performance standards.
+- Oversaw end-to-end material management, ensuring efficient and timely availabilty of inventory from suppliers to end-users while maintaining optimal inventory levels.
+- Led the drafting of the Technical Design Report containing every aspect of making the aircraft in detail.
+![trident3](/images/trident3.png)
+
+Students analyze requirements, perform trade-studies
+
+Results:
+---
+
+- **1st Worldwide in Technical Design Report** - SAE International Aero Design Competition 2022 (Fort Worth, Texas, USA)
+- **1st Worldwide in Oral Presentation** - SAE International Aero Design Competition 2022 (Fort Worth, Texas, USA)
+- **3rd Rank Overall Worldwide** - SAE International Aero Design Competition 2022 (Fort Worth, Texas, USA)
+
+![trident6](/images/trident6.png)
+![trident7](/images/trident7.png)
